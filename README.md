@@ -1,7 +1,8 @@
 # mint README
 
-# vsce package
-# code --install-extension mint-0.0.1.vsix
+# installation
+* vsce package
+* code --install-extension mint-0.0.1.vsix
 
 ## Working with Markdown
 
