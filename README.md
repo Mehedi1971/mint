@@ -1,5 +1,8 @@
 # mint README
 
+# vsce package
+# code --install-extension mint-0.0.1.vsix
+
 ## Working with Markdown
 
 You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
