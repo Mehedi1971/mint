@@ -1,0 +1,28 @@
+{
+  "name": "mint",
+  "displayName": "mint",
+  "description": "color theme",
+  "version": "0.0.1",
+  "publisher": "Md. Mahedi Hasan",
+  "icon":"mint.PNG",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Mint",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Mint-color-theme.json"
+      },
+      {
+        "label": "Mint Fresh",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Mint-fresh.json"
+      }
+    ]
+  }
+}
